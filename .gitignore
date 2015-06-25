@@ -1,0 +1,22 @@
+# http://git-scm.com/docs/gitignore
+
+node_modules/
+platforms/
+plugins/
+temp/
+example/cordova/iOS/www/js/framework
+bower_components/
+components/
+.sass-cache
+.DS_Store
+.idea
+*.DS_Store
+*.log
+*.keystore
+*.sw*
+*.sw[mnpcod]
+*.tmp
+*.tmp.*
+log.txt
+tmp
+dist
